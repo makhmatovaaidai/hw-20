@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  position: relative;
+  top:100px;
+}
+body{
+  background-color: lightseagreen;
+}
+button{
+  width: 120px;
+  height: 40px;
+  margin: 5px;
+  border-radius: 6px;
+  font-size: 1.3rem;
+  background-color: aquamarine;
+  box-shadow: 2px 2px 9px deepskyblue;
+}
